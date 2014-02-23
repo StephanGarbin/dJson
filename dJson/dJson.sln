@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dJson", "dJson\dJson.vcxproj", "{6CF7CF07-136E-4FAB-8CB7-0817455607B3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dJson_test", "dJson_test\dJson_test.vcxproj", "{DC6F9160-2C62-4FC6-9CEF-45E2438396EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CF7CF07-136E-4FAB-8CB7-0817455607B3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6CF7CF07-136E-4FAB-8CB7-0817455607B3}.Debug|Win32.Build.0 = Debug|Win32
+		{6CF7CF07-136E-4FAB-8CB7-0817455607B3}.Release|Win32.ActiveCfg = Release|Win32
+		{6CF7CF07-136E-4FAB-8CB7-0817455607B3}.Release|Win32.Build.0 = Release|Win32
+		{DC6F9160-2C62-4FC6-9CEF-45E2438396EC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DC6F9160-2C62-4FC6-9CEF-45E2438396EC}.Debug|Win32.Build.0 = Debug|Win32
+		{DC6F9160-2C62-4FC6-9CEF-45E2438396EC}.Release|Win32.ActiveCfg = Release|Win32
+		{DC6F9160-2C62-4FC6-9CEF-45E2438396EC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
